@@ -1,6 +1,11 @@
 # Netlifycode
 
+
+
 Mattermost Netlify bot is an intermediary agent between your Netlify and mattermost account. It makes it easy to monitor and interact with your Netlify's resources all within your team's channel. Once integrated with your Mattermost channel, team can start recieving various Netlify notifications such as Netlify form submissions, build failures etc and can run commands to redeploy, see build stats, create hooks and much more.
+
+
+Productivity chatbots that help pull latest news, run automated expense reports or manage your daily tasks
 
 Salient features are explained here
 
