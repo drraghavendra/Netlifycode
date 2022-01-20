@@ -6,8 +6,10 @@ Salient features are explained here
 
 1.)Familiar interface : System admins can manage Netlify configuration right from the chat window with which they are
 familiar with.
+
 2.)Critical notification to team : Concerned teams are notified of the issue which makes it easier to plan and execute the
 solution rapidly.
+
 3.) System health and monitoring on the fly.
 
 Development approach
